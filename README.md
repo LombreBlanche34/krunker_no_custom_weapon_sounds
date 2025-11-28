@@ -13,3 +13,7 @@ You can choose for ennemi sounds and your sounds
 ### Compatible with [settings.js](https://github.com/LombreBlanche34/krunker_scripts_settings)
 
 discord: https://discord.gg/9aUJK9yAq9
+
+
+https://github.com/user-attachments/assets/1056f7fb-e6ef-41a6-aab0-094eb6d69e63
+
